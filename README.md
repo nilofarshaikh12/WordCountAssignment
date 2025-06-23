@@ -24,7 +24,7 @@ git clone https://github.com/nilofarshaikh12/WordCountAssignment.git
 ```
 ##### 📂 2. Change to the Project Directory
 ```bash
-cd WordCountAssignment
+cd WordCount
 ```
 ##### 3.Compile the code
 ```bash
